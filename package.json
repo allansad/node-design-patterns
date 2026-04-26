@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-design-pattern",
+  "version": "1.0.0",
+  "description": "Node.js Design Patterns 학습 레포",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
