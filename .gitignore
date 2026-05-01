@@ -1,3 +1,5 @@
 receive_file/
 fake.zip
 fake.zip.gz
+node_modules
+files
